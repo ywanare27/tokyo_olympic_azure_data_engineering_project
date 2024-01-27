@@ -1,0 +1,9 @@
+{
+	"name": "tk-olympic-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db8c5714-eb02-4179-bca2-ae16824532af",
+		"tenantId": "a08ab69f-bc47-4963-a5d0-3d11faacc156"
+	}
+}
