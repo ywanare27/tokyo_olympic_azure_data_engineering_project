@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-6268003302756525.5.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/f957cfc2-f9bc-4553-b380-590e59d6f003/resourceGroups/tokyo-olympic/providers/Microsoft.Databricks/workspaces/tokyo-olympic-db",
+			"existingClusterId": "yogesh"
+		}
+	}
+}
