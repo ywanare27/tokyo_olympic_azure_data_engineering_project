@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseArtifacts1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://tkoly-sywrk2.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/f957cfc2-f9bc-4553-b380-590e59d6f003/resourceGroups/tokyo-olympic/providers/Microsoft.Synapse/workspaces/tkoly-sywrk2"
+		}
+	}
+}
